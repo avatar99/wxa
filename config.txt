@@ -1,0 +1,6 @@
+﻿token= NjEzMzUzMzk0NDk2ODY0MjU3.XVvr4A.lZchf4OGkQaBrUqp9OM93l3ovM4
+owner= 600369127907131412
+prefix=5
+game= Clouds
+stayinchannel=true
+songinstatus=false 
