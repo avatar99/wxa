@@ -1,4 +1,4 @@
-﻿token= NjEzMzUzMzk0NDk2ODY0MjU3.XVvr4A.lZchf4OGkQaBrUqp9OM93l3ovM4
+token= NjIyMzc5NzE5NTA5NDA5ODIy.XXzCWA.r8O9HKoix59wBHvpaMDxn1qhUk4
 owner= 600369127907131412
 prefix=5
 game= Clouds
